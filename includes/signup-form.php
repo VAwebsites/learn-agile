@@ -60,7 +60,7 @@ if (MAIL_TITLE != null) {
 
 } else {
 
-    $subject = '[SmartEdu] Contact Form Message';
+    $subject = '[Learn Agile] Contact Form Message';
 
 }
 

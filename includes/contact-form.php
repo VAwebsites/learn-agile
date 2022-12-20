@@ -63,7 +63,7 @@ if( isset($_POST['name']) && isset($_POST['email']) && isset($_POST['website']) 
 
     } else {
 
-        $subject = '[SmartEdu] Contact Form Message';
+        $subject = '[Learn Agile] Contact Form Message';
 
     }
 

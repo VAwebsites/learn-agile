@@ -202,7 +202,7 @@
 
         var options = {
             makericon: 'images/icon/icon-map-blue.png',
-            makers: '[["Smartedu", "Content", 40.717209, -74.005165]]',
+            makers: '[["Learn Agile", "Content", 40.717209, -74.005165]]',
             zoom : 11,
             center: new google.maps.LatLng(40.717209, -74.005165),
             scrollwheel: 0,

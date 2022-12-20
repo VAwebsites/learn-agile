@@ -2802,7 +2802,7 @@ body {
       color: #666; }
 
 .sign-up {
-  background: #fff url("../images/home1-signup-bg.jpg") no-repeat center center;
+  background: #fff url("../images/slider1.jpg") no-repeat center center;
   background-size: cover;
   -moz-background-size: cover;
   -webkit-background-size: cover;
@@ -4820,3 +4820,6 @@ body {
     width: 45%; } }
 
 /*# sourceMappingURL=style.css.map */
+#js-navbar-fixed > div > div > div > div.logo > a > img{
+  max-width: 15rem !important;
+}

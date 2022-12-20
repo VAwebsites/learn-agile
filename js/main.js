@@ -485,7 +485,7 @@
                 description: 'description for Technology Connection',
                 start  : '2018-08-03',
                 backgroundColor : 'transparent',
-                url: '../smartedu/single-event.html',
+                url: '../Learn Agile/single-event.html',
                 className : 'custom',
             },
             {
@@ -493,28 +493,28 @@
                 description: 'description for Creative Development',
                 start  : '2018-08-14',
                 backgroundColor : 'transparent',
-                url: '../smartedu/single-event.html',
+                url: '../Learn Agile/single-event.html',
             },
             {
                 title  : 'AI Development Day',
                 description: 'description for AI Development Day',
                 start  : '2018-08-09',
                 backgroundColor : 'transparent',
-                url: '../smartedu/single-event.html',
+                url: '../Learn Agile/single-event.html',
             },
             {
                 title  : 'International Exhibitions',
                 description: 'description for International Exhibitions',
                 start  : '2018-08-24',
                 backgroundColor : 'transparent',
-                url: '../smartedu/single-event.html',
+                url: '../Learn Agile/single-event.html',
             },
             {
                 title  : 'July Conference',
                 description: 'description for July Conference',
                 start  : '2018-09-02',
                 backgroundColor : 'transparent',
-                url: '../smartedu/single-event.html',
+                url: '../Learn Agile/single-event.html',
             }
         ],
     });
